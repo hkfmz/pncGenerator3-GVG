@@ -1,0 +1,33 @@
+[
+ {
+  "n˚": 37,
+  "taxe_name": "Taxe de réception technique des véhicules à la frontière",
+  "amount": 1000002,
+  "date": "2023-08-15",
+  "direction": "DGTT",
+  "num_document": "RED001-100037",
+  "nom_document": "Réception technique des véhicules à la frontière",
+  "date_edition": "2023-08-15",
+  "ann_validite": "2023-12-15",
+  "tel_1": "242057330004",
+  "address": "35, Rue Vinza  Jour 6",
+  "company": "TEST REDEVANCE 37",
+  "niu": "M20191000322036",
+  "rccm": "CG-BZV2004 - B35066",
+  "type_company": "Moderne",
+  "type_activity": "Activité 37",
+  "brand": "Alfa Romeo",
+  "model": "Brera",
+  "num_chassis": "PK04939KLZ0Z00260",
+  "color": "BLANC",
+  "registration": "278 CG7",
+  "fuel_type": "DIESEL",
+  "model_year": "1989-06-03",
+  "place_of_birth": "OUESSO",
+  "nationality": "CONGOLAISE",
+  "date_of_birth": "1997-04-21",
+  "driving_licence_category": "Catégorie A",
+  "child": "ELENGA Junior",
+  "parental_authority": "ELENGA Paul"
+ }
+]
